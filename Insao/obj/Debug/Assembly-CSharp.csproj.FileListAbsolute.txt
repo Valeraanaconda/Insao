@@ -1,0 +1,2 @@
+D:\unity\Insao\Insao\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\unity\Insao\Insao\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
